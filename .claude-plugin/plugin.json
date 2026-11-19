@@ -1,0 +1,10 @@
+{
+  "name": "rea",
+  "version": "0.1.0",
+  "description": "REA (Reverse Engineers Anything): helps analyze and understand how software, file formats, protocols, APIs and devices work, from the artifacts you provide.",
+  "author": {
+    "name": "ferrarymoise21"
+  },
+  "repository": "https://github.com/ferrarymoise21/rea",
+  "keywords": ["reverse-engineering", "analysis", "documentation"]
+}
